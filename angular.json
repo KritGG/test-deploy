@@ -96,10 +96,7 @@
             ],
             "styles": [
               "src/styles.css"
-            ],
-            "scripts": [],
-            "baseHref": "/",
-            "deployUrl": "/"
+            ]
           }
         }
       }
